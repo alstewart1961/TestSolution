@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Bandaar</RootNamespace>
+    <AssemblyName>Helper</AssemblyName>
+    <PackageId>BandaarHelper</PackageId>
+    <Authors>AlStew</Authors>
+    <Company>Bandaar</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
