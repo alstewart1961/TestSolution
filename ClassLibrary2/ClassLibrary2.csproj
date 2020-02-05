@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Bandaar</RootNamespace>
     <AssemblyName>Helper</AssemblyName>
-    <PackageId>BandaarHelper</PackageId>
+    <PackageId>Bandaar.Helper</PackageId>
     <Authors>AlStew</Authors>
     <Company>Bandaar</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
