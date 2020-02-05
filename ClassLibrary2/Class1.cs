@@ -12,5 +12,9 @@ namespace ClassLibrary2.Helper
         {
             return x - y;
         }
+        public double Mul(double x,double y)
+        {
+            return x * y;
+        }
     }
 }
